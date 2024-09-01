@@ -9,7 +9,7 @@
 - [x] Summary Ranges [](problems/summary_ranges.go)
 - [ ] Valid Palindrome [](problems/valid_palindrome.go)
 - [ ] String Compression [](problems/string_compression.go)
-- [x] Longest Subarray of 1's After Deleting One Element [](problem/subarray_del_1.go)
+- [x] Longest Subarray of 1's After Deleting One Element [](problems/subarray_del_1.go)
 - [x] Squares of a Sorted Array [](problems/squares_of_sorted.go)
 
 ### Hash map
