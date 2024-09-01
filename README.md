@@ -21,8 +21,8 @@
 ### prefix sum
 
 ### Array
-- [] Merge intervals [](problems/merge_intervals.go)
-- [] Number of students doing homework at a given time [](problems/number_of_students_doing_homework.go)
+- [ ] Merge intervals [](problems/merge_intervals.go)
+- [ ] Number of students doing homework at a given time [](problems/number_of_students_doing_homework.go)
 
 ### classics algorithms
-- [] One edit distance [](problems/one_edit_distance.go)
+- [ ] One edit distance [](problems/one_edit_distance.go)
