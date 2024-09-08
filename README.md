@@ -13,7 +13,7 @@
 - [x] Squares of a Sorted Array [](problems/squares_of_sorted.go)
 
 ### Hash map
-- [ ] Intersection of two arrays [](problems/intersection_two_arrays.gjo)
+- [ ] Intersection of two arrays [](problems/intersection_two_arrays.go)
 - [ ] Group anagrams [](problems/group_anagrams.go)
 - [ ] Line reflection [](problems/line_reflection.go)
 - [ ] Subarray Sum Equals K [](problems/subarray_sum.go)
@@ -23,6 +23,8 @@
 ### Array
 - [ ] Merge intervals [](problems/merge_intervals.go)
 - [ ] Number of students doing homework at a given time [](problems/number_of_students_doing_homework.go)
+- [x] Merge Alternately [] [](problems/merge_alternately.go)
+- [x] Increasing Triplet Subsequence [] [](problems/increasing_triplet_subsequence.go)
 
 ### classics algorithms
 - [ ] One edit distance [](problems/one_edit_distance.go)
